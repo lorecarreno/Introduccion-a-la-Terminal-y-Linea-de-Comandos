@@ -1,6 +1,6 @@
 En los sistemas operativos organizamos los archivos en una estructura de carpetas en forma de árbol jerárquico. Este árbol cambia dependiendo de los diferentes sistemas operativos (no tanto en Linux y Mac).
 
-*** Cómo funciona el sistema de carpetas ***
+***Cómo funciona el sistema de carpetas***
 
 - El sistema operativo con el que trabajaremos es Linux, por lo tanto usaremos su estructura.
 
@@ -10,7 +10,7 @@ En los sistemas operativos organizamos los archivos en una estructura de carpeta
 
 --------------------------------
 
-*** Cómo entender la información al inicio de la terminal ***
+***Cómo entender la información al inicio de la terminal***
 
 - Cuando abrimos la terminal vamos a ver algo como esto:
 
@@ -92,7 +92,7 @@ Por último, el atajo slash te lleva a la raíz donde están todas las carpetas 
 > lorecg@DESKTOP-3R804MK:/mnt/c/users/lore$ cd /
 > lorecg@DESKTOP-3R804MK:/$
 
-*** ¿Cómo saber lo que hay adentro de las carpetas? (ls) ***
+***¿Cómo saber lo que hay adentro de las carpetas? (ls)***
 
 No siempre vas a saber lo que hay adentro de las carpetas, por lo que necesitas listar lo que hay dentro, para eso está el comando ls, por lo general le dan el significado de List.
 
