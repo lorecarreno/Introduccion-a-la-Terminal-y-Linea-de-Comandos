@@ -27,6 +27,6 @@ NOTA: Para este curso necesitarás estar usando un sistema operativo basado en l
 
 --------------------------------------------------------------------
 
-![command-line-cheat-sheet.pdf](https://static.platzi.com/media/public/uploads/command-line-cheat-sheet_93c5cbb9-8acf-423e-a92e-351a461f15ae.pdf)
+[command-line-cheat-sheet.pdf](https://static.platzi.com/media/public/uploads/command-line-cheat-sheet_93c5cbb9-8acf-423e-a92e-351a461f15ae.pdf)
 
-![slides-introduccion-termina-linea-comandos.pdf](https://static.platzi.com/media/public/uploads/slides-introduccion-termina-linea-comandos_32871700-429d-41ca-a5a5-dc0bf402c4c6.pdf)
+[slides-introduccion-termina-linea-comandos.pdf](https://static.platzi.com/media/public/uploads/slides-introduccion-termina-linea-comandos_32871700-429d-41ca-a5a5-dc0bf402c4c6.pdf)
