@@ -14,7 +14,7 @@ En los sistemas operativos organizamos los archivos en una estructura de carpeta
 
 - Cuando abrimos la terminal vamos a ver algo como esto:
 
-lorecg@DESKTOP-3R804MK:~$
+> lorecg@DESKTOP-3R804MK:~$
 
 - Todo esto parece un mensaje encriptado, pero es más sencillo de lo que parece, vamos por partes:
 
